@@ -1,0 +1,4 @@
+streamlit
+pytubefix
+moviepy
+openai
