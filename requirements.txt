@@ -1,4 +1,5 @@
 streamlit
 pytubefix
 moviepy
+moviepy.editor
 openai
